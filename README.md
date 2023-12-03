@@ -13,7 +13,7 @@ LeagueVision is a comprehensive suite of Python scripts designed for image proce
 - **Image Recognition**: Utilize trained models to recognize and classify images.
 
 ## Current Focus and Image Availability
-As of now, the primary focus of this project is on enhancing and expanding the capabilities related to champions images and items images. All the images for champions and items are readily available in the project repository, allowing for easy access and integration into the scripts. Users interested in these specific aspects can utilize these images for training, generation, and recognition purposes.
+As of now, the primary focus of this project is on enhancing and expanding the capabilities related to champions images and items images. All the images for champions and items are available in the project repository, allowing for easy access and integration into the scripts. You can utilize these images for training, generation, and recognition purposes.
 
 ### Prerequisites
 - Python 3.x
